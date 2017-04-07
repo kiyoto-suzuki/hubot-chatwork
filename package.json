@@ -1,6 +1,6 @@
 {
   "name": "hubot-chatwork",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A hubot adapter for chatwork",
   "main": "src/chatwork",
   "scripts": {
@@ -14,19 +14,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/akiomik/hubot-chatwork.git"
+    "url": "git://github.com/kiyoto-suzuki/hubot-chatwork.git"
   },
   "bugs": {
-    "url": "https://github.com/akiomik/hubot-chatwork/issues"
+    "url": "https://github.com/kiyoto-suzuki/hubot-chatwork/issues"
   },
   "keywords": [
     "hubot",
     "chatwork"
   ],
   "author": {
-    "name": "Akiomi Kamakura",
-    "email": "akiomik@gmail.com",
-    "url": "https://github.com/akiomik"
+    "name": "Kiyoto Suzuki",
+    "email": "kiyoto.suzuki@gree.net",
+    "url": "https://github.com/kiyoto-suzuki"
   },
   "license": "MIT",
   "readmeFilename": "README.md",
